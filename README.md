@@ -4,6 +4,8 @@
 
 SvelteKit + Typescript Template for Wails
 
+**Thank you** to [@figureom16](https://github.com/figuerom16) for the sveltekit guide in the _next_ documentation. It was essential in creating this work.
+
 ## Information about setup
 
 Please see [this wails.io page](https://wails.io/docs/next/guides/sveltekit/) for more detailed information about using SvelteKit with wails.
