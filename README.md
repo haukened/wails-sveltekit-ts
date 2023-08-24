@@ -6,6 +6,8 @@ SvelteKit + Typescript Template for Wails
 
 **Thank you** to [@figuerom16](https://github.com/figuerom16) for the sveltekit guide in the _next_ documentation. It was essential in creating this work.
 
+[![buy me a beer](README.png)](https://www.buymeacoffee.com/haukened)
+
 ## Using this template
 
 To use this template, run `wails init` with the following options:
